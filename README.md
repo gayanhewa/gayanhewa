@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - Myraid of stuff at [Glamcorner](https://glamcorner.com.au)
+  - Fleet Management for LEV's at [Zoomo](https://www.ridezoomo.com/)
   - Mobile content / Loyalty platfrom on the side.
 - 🌱 I’m currently learning
   - How to parent.
